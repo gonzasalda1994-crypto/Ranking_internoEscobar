@@ -1,0 +1,20 @@
+body{
+    background:#1e1e1e;
+}
+
+h1{
+    color:#f7c843;
+    font-weight:bold;
+}
+
+table{
+    font-size:18px;
+}
+
+tr:hover{
+    cursor:pointer;
+}
+
+input{
+    font-size:18px;
+}
