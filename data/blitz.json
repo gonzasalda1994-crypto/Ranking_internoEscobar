@@ -16,6 +16,10 @@
         "ELO Blitz": 1882
     },
     {
+        "Nombre": "Molina Facundo",
+        "ELO Blitz": 1865
+    },
+    {
         "Nombre": "Opatril Guillermo",
         "ELO Blitz": 1848
     },
@@ -40,24 +44,28 @@
         "ELO Blitz": 1734
     },
     {
-        "Nombre": "Rosse Mariano",
-        "ELO Blitz": 1626
+        "Nombre": "Pineda Thiago",
+        "ELO Blitz": 1693
+    },
+    {
+        "Nombre": "Gonzalez Nazareno",
+        "ELO Blitz": 1634
     },
     {
         "Nombre": "Pousa Federico",
         "ELO Blitz": 1623
     },
     {
-        "Nombre": "Pineda Thiago",
-        "ELO Blitz": 1615
+        "Nombre": "Silvero Joaquin",
+        "ELO Blitz": 1619
+    },
+    {
+        "Nombre": "Rosse Mariano",
+        "ELO Blitz": 1618
     },
     {
         "Nombre": "Mayta Marcos Xavier",
         "ELO Blitz": 1605
-    },
-    {
-        "Nombre": "Gonzalez Nazareno",
-        "ELO Blitz": 1586
     },
     {
         "Nombre": "Balzano Lautaro",
@@ -65,35 +73,27 @@
     },
     {
         "Nombre": "Gonzalez Felipe",
-        "ELO Blitz": 1572
+        "ELO Blitz": 1579
+    },
+    {
+        "Nombre": "Almada Bautista",
+        "ELO Blitz": 1578
     },
     {
         "Nombre": "Villaverde Kevin",
         "ELO Blitz": 1569
     },
     {
-        "Nombre": "Almada Bautista",
-        "ELO Blitz": 1568
-    },
-    {
         "Nombre": "Stanganelli Tomas",
         "ELO Blitz": 1567
     },
     {
-        "Nombre": "Silvero Joaquin",
-        "ELO Blitz": 1558
-    },
-    {
-        "Nombre": "Gomez Maiten",
-        "ELO Blitz": 1554
+        "Nombre": "Dominguez Segundo",
+        "ELO Blitz": 1546
     },
     {
         "Nombre": "Medina Alex",
         "ELO Blitz": 1542
-    },
-    {
-        "Nombre": "Vedia Alejandro",
-        "ELO Blitz": 1540
     },
     {
         "Nombre": "Garcia Leonel",
@@ -104,6 +104,14 @@
         "ELO Blitz": 1535
     },
     {
+        "Nombre": "Salleres Kiara",
+        "ELO Blitz": 1529
+    },
+    {
+        "Nombre": "Altamirano Victoria",
+        "ELO Blitz": 1527
+    },
+    {
         "Nombre": "Herrera Bruno",
         "ELO Blitz": 1521
     },
@@ -112,8 +120,8 @@
         "ELO Blitz": 1518
     },
     {
-        "Nombre": "Salleres Kiara",
-        "ELO Blitz": 1518
+        "Nombre": "Gomez Maiten",
+        "ELO Blitz": 1517
     },
     {
         "Nombre": "Villar Rodrigo",
@@ -126,6 +134,18 @@
     {
         "Nombre": "Gonzalez Cesar",
         "ELO Blitz": 1505
+    },
+    {
+        "Nombre": "Gorini Joaquin",
+        "ELO Blitz": 1505
+    },
+    {
+        "Nombre": "Zavala Valentino",
+        "ELO Blitz": 1503
+    },
+    {
+        "Nombre": "Vargas Alejandro",
+        "ELO Blitz": 1502
     },
     {
         "Nombre": "Completa Alan",
@@ -168,10 +188,6 @@
         "ELO Blitz": 1500
     },
     {
-        "Nombre": "Zavala Valentino",
-        "ELO Blitz": 1500
-    },
-    {
         "Nombre": "Rios Alejo",
         "ELO Blitz": 1500
     },
@@ -184,8 +200,12 @@
         "ELO Blitz": 1500
     },
     {
-        "Nombre": "Vargas Alejandro",
-        "ELO Blitz": 1495
+        "Nombre": "Tello Maximo",
+        "ELO Blitz": 1497
+    },
+    {
+        "Nombre": "Vedia Alejandro",
+        "ELO Blitz": 1493
     },
     {
         "Nombre": "Erro Valentin",
@@ -200,51 +220,47 @@
         "ELO Blitz": 1482
     },
     {
-        "Nombre": "Condo Gael",
-        "ELO Blitz": 1481
+        "Nombre": "Miño Ezequiel",
+        "ELO Blitz": 1472
     },
     {
-        "Nombre": "Altamirano Victoria",
+        "Nombre": "Sorrentino Bautista",
         "ELO Blitz": 1471
+    },
+    {
+        "Nombre": "De notta Benjamin",
+        "ELO Blitz": 1470
+    },
+    {
+        "Nombre": "Condo Gael",
+        "ELO Blitz": 1465
     },
     {
         "Nombre": "Dobrovolny Juliana",
         "ELO Blitz": 1464
     },
     {
-        "Nombre": "Gorini Joaquin",
-        "ELO Blitz": 1463
-    },
-    {
         "Nombre": "Muñoz Facundo",
         "ELO Blitz": 1454
-    },
-    {
-        "Nombre": "Laforet Isabella",
-        "ELO Blitz": 1452
     },
     {
         "Nombre": "Bourre Paz",
         "ELO Blitz": 1451
     },
     {
+        "Nombre": "Gonzalez Bautista",
+        "ELO Blitz": 1448
+    },
+    {
         "Nombre": "thames Fernando",
         "ELO Blitz": 1447
-    },
-    {
-        "Nombre": "Gonzalez Julieta",
-        "ELO Blitz": 1440
-    },
-    {
-        "Nombre": "De notta Benjamin",
-        "ELO Blitz": 1439
     },
     {
         "Nombre": "Fernandez Gianluca",
         "ELO Blitz": 1436
     },
     {
-        "Nombre": "Laforet Juan Pablo",
+        "Nombre": "Laforet Isabella",
         "ELO Blitz": 1434
     },
     {
@@ -252,20 +268,32 @@
         "ELO Blitz": 1428
     },
     {
-        "Nombre": "Pousa Nicolas",
-        "ELO Blitz": 1420
+        "Nombre": "Sorrentino Juan Pedro",
+        "ELO Blitz": 1426
     },
     {
-        "Nombre": "Gonzalez Bautista",
-        "ELO Blitz": 1417
+        "Nombre": "Espinoza Thiago",
+        "ELO Blitz": 1424
+    },
+    {
+        "Nombre": "Pousa Nicolas",
+        "ELO Blitz": 1420
     },
     {
         "Nombre": "Contreras Iara",
         "ELO Blitz": 1415
     },
     {
+        "Nombre": "Laforet Juan Pablo",
+        "ELO Blitz": 1412
+    },
+    {
         "Nombre": "Martinez Benjamin",
         "ELO Blitz": 1392
+    },
+    {
+        "Nombre": "Gonzalez Julieta",
+        "ELO Blitz": 1379
     },
     {
         "Nombre": "Quesada Franco",

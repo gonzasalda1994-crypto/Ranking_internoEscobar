@@ -96,11 +96,11 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Saldaño Gonzalo",
+        "Nombre": "Sanduay Nicolas",
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Sanduay Nicolas",
+        "Nombre": "Molina Facundo",
         "ELO Clasico": 1500
     },
     {
@@ -108,11 +108,11 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Rosse Mariano",
+        "Nombre": "Pousa Federico",
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Pousa Federico",
+        "Nombre": "Rosse Mariano",
         "ELO Clasico": 1500
     },
     {
@@ -128,11 +128,11 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Medina Alex",
+        "Nombre": "Dominguez Segundo",
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Vedia Alejandro",
+        "Nombre": "Medina Alex",
         "ELO Clasico": 1500
     },
     {
@@ -140,11 +140,11 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Herrera Bruno",
+        "Nombre": "Salleres Kiara",
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Salleres Kiara",
+        "Nombre": "Herrera Bruno",
         "ELO Clasico": 1500
     },
     {
@@ -153,6 +153,14 @@
     },
     {
         "Nombre": "Indo Juan",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "Tello Maximo",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "Vedia Alejandro",
         "ELO Clasico": 1500
     },
     {
@@ -168,6 +176,18 @@
         "ELO Clasico": 1500
     },
     {
+        "Nombre": "Miño Ezequiel",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "Sorrentino Bautista",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "De notta Benjamin",
+        "ELO Clasico": 1500
+    },
+    {
         "Nombre": "Condo Gael",
         "ELO Clasico": 1500
     },
@@ -176,19 +196,7 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Laforet Isabella",
-        "ELO Clasico": 1500
-    },
-    {
         "Nombre": "thames Fernando",
-        "ELO Clasico": 1500
-    },
-    {
-        "Nombre": "Gonzalez Julieta",
-        "ELO Clasico": 1500
-    },
-    {
-        "Nombre": "De notta Benjamin",
         "ELO Clasico": 1500
     },
     {
@@ -196,7 +204,7 @@
         "ELO Clasico": 1500
     },
     {
-        "Nombre": "Laforet Juan Pablo",
+        "Nombre": "Laforet Isabella",
         "ELO Clasico": 1500
     },
     {
@@ -204,11 +212,27 @@
         "ELO Clasico": 1500
     },
     {
+        "Nombre": "Sorrentino Juan Pedro",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "Espinoza Thiago",
+        "ELO Clasico": 1500
+    },
+    {
         "Nombre": "Pousa Nicolas",
         "ELO Clasico": 1500
     },
     {
+        "Nombre": "Laforet Juan Pablo",
+        "ELO Clasico": 1500
+    },
+    {
         "Nombre": "Martinez Benjamin",
+        "ELO Clasico": 1500
+    },
+    {
+        "Nombre": "Gonzalez Julieta",
         "ELO Clasico": 1500
     },
     {
