@@ -8,6 +8,10 @@
         "ELO Rapid": 2045
     },
     {
+        "Nombre": "Molina Facundo",
+        "ELO Rapid": 1866
+    },
+    {
         "Nombre": "Molina Salazar Facundo",
         "ELO Rapid": 1848
     },
@@ -25,51 +29,75 @@
     },
     {
         "Nombre": "Pallone Tatiana",
-        "ELO Rapid": 1772
+        "ELO Rapid": 1748
     },
     {
         "Nombre": "Polero Nahuel",
         "ELO Rapid": 1752
     },
     {
+        "Nombre": "Almada Juan",
+        "ELO Rapid": 1722
+    },
+    {
         "Nombre": "Silvero Joaquin",
         "ELO Rapid": 1707
+    },
+    {
+        "Nombre": "Pineda Thiago",
+        "ELO Rapid": 1648
+    },
+    {
+        "Nombre": "Gonzalez Nazareno",
+        "ELO Rapid": 1634
     },
     {
         "Nombre": "Diaz Facundo",
         "ELO Rapid": 1622
     },
     {
-        "Nombre": "Pineda Thiago",
-        "ELO Rapid": 1607
+        "Nombre": "Altamirano Victoria",
+        "ELO Rapid": 1619
     },
     {
-        "Nombre": "Gonzalez Nazareno",
-        "ELO Rapid": 1591
+        "Nombre": "Salleres Kiara",
+        "ELO Rapid": 1608
     },
     {
         "Nombre": "Almada Juan Bautista",
         "ELO Rapid": 1584
     },
     {
-        "Nombre": "Altamirano Victoria",
-        "ELO Rapid": 1575
+        "Nombre": "Decipio Jeremias",
+        "ELO Rapid": 1571
+    },
+    {
+        "Nombre": "Rossé Mariano",
+        "ELO Rapid": 1561
     },
     {
         "Nombre": "Villaverde Kevin",
         "ELO Rapid": 1542
     },
     {
-        "Nombre": "Decipio Jeremias",
-        "ELO Rapid": 1530
+        "Nombre": "Acosta Camila",
+        "ELO Rapid": 1535
+    },
+    {
+        "Nombre": "Martinez Facundo",
+        "ELO Rapid": 1532
     },
     {
         "Nombre": "Balzano Lautaro",
         "ELO Rapid": 1529
     },
     {
-        "Nombre": "Rossé Mariano",
-        "ELO Rapid": 1518
+        "Nombre": "Vargas Alejandro",
+        "ELO Rapid": 1521
+    },
+    {
+        "Nombre": "Pinta Bruno",
+        "ELO Rapid": 1504
     },
     {
         "Nombre": "Ortiz Stefano",
@@ -89,10 +117,6 @@
     },
     {
         "Nombre": "Contessotto Enrique",
-        "ELO Rapid": 1500
-    },
-    {
-        "Nombre": "Molina Facundo",
         "ELO Rapid": 1500
     },
     {
@@ -148,10 +172,6 @@
         "ELO Rapid": 1500
     },
     {
-        "Nombre": "Martinez Facundo",
-        "ELO Rapid": 1500
-    },
-    {
         "Nombre": "Cordoba Bautista",
         "ELO Rapid": 1500
     },
@@ -176,19 +196,11 @@
         "ELO Rapid": 1500
     },
     {
-        "Nombre": "Gonzalez Felipe",
-        "ELO Rapid": 1500
-    },
-    {
         "Nombre": "Herrera Bruno",
         "ELO Rapid": 1500
     },
     {
         "Nombre": "Amarilla Marco",
-        "ELO Rapid": 1500
-    },
-    {
-        "Nombre": "Gorini Joaquin",
         "ELO Rapid": 1500
     },
     {
@@ -208,10 +220,6 @@
         "ELO Rapid": 1500
     },
     {
-        "Nombre": "Salleres Kiara",
-        "ELO Rapid": 1500
-    },
-    {
         "Nombre": "Completa Alan",
         "ELO Rapid": 1500
     },
@@ -224,15 +232,15 @@
         "ELO Rapid": 1500
     },
     {
+        "Nombre": "Florentino Juan Manuel",
+        "ELO Rapid": 1500
+    },
+    {
         "Nombre": "Gaztanaga Miguel",
         "ELO Rapid": 1500
     },
     {
         "Nombre": "Caceres Diego",
-        "ELO Rapid": 1500
-    },
-    {
-        "Nombre": "Florentino Juan Manuel",
         "ELO Rapid": 1500
     },
     {
@@ -324,16 +332,12 @@
         "ELO Rapid": 1500
     },
     {
-        "Nombre": "Gonzalez Julieta",
-        "ELO Rapid": 1500
+        "Nombre": "Schneider Eber",
+        "ELO Rapid": 1496
     },
     {
-        "Nombre": "Laforet Isabella",
-        "ELO Rapid": 1500
-    },
-    {
-        "Nombre": "Vargas Alejandro",
-        "ELO Rapid": 1495
+        "Nombre": "Gonzalez Felipe",
+        "ELO Rapid": 1494
     },
     {
         "Nombre": "Mayta Marcos Xavier",
@@ -349,30 +353,54 @@
     },
     {
         "Nombre": "Dobrovolny Juliana",
-        "ELO Rapid": 1464
+        "ELO Rapid": 1476
     },
     {
-        "Nombre": "Gonzalez Bautista",
-        "ELO Rapid": 1460
+        "Nombre": "Gorini Joaquin",
+        "ELO Rapid": 1472
+    },
+    {
+        "Nombre": "Gaztañaga Miguel",
+        "ELO Rapid": 1466
     },
     {
         "Nombre": "Bourre Paz",
         "ELO Rapid": 1451
     },
     {
-        "Nombre": "Zavala Valentino",
+        "Nombre": "Mayta Marcos",
         "ELO Rapid": 1450
     },
     {
-        "Nombre": "Gomez Maiten",
-        "ELO Rapid": 1448
+        "Nombre": "Vega Elias",
+        "ELO Rapid": 1445
     },
     {
         "Nombre": "Rios Alejo",
         "ELO Rapid": 1443
     },
     {
+        "Nombre": "Gomez Maiten",
+        "ELO Rapid": 1428
+    },
+    {
+        "Nombre": "Gonzalez Julieta",
+        "ELO Rapid": 1427
+    },
+    {
+        "Nombre": "Zavala Valentino",
+        "ELO Rapid": 1420
+    },
+    {
         "Nombre": "Contreras Iara",
         "ELO Rapid": 1415
+    },
+    {
+        "Nombre": "Gonzalez Bautista",
+        "ELO Rapid": 1412
+    },
+    {
+        "Nombre": "Laforet Isabella",
+        "ELO Rapid": 1391
     }
 ]

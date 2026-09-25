@@ -28,12 +28,16 @@
         "ELO Blitz": 1836
     },
     {
-        "Nombre": "Morales Pedro Jorge",
+        "Nombre": "Morales Pedro",
         "ELO Blitz": 1817
     },
     {
         "Nombre": "Opatril Guillermo",
         "ELO Blitz": 1799
+    },
+    {
+        "Nombre": "Morales Pedro Jorge",
+        "ELO Blitz": 1795
     },
     {
         "Nombre": "Lope De Vergara Gustavo",
@@ -116,11 +120,11 @@
         "ELO Blitz": 1560
     },
     {
-        "Nombre": "Mayta Marcos Xavier",
+        "Nombre": "Cordoba Bautista",
         "ELO Blitz": 1558
     },
     {
-        "Nombre": "Cordoba Bautista",
+        "Nombre": "Mayta Marcos Xavier",
         "ELO Blitz": 1558
     },
     {
@@ -216,6 +220,14 @@
         "ELO Blitz": 1500
     },
     {
+        "Nombre": "Molina Facundo",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Almada Juan",
+        "ELO Blitz": 1500
+    },
+    {
         "Nombre": "Diaz Facundo",
         "ELO Blitz": 1500
     },
@@ -228,11 +240,35 @@
         "ELO Blitz": 1500
     },
     {
+        "Nombre": "Pinta Bruno",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Florentino Juan Manuel",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Schneider Eber",
+        "ELO Blitz": 1500
+    },
+    {
         "Nombre": "Zapata Natanael",
         "ELO Blitz": 1500
     },
     {
         "Nombre": "Villar Javier",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Gaztañaga Miguel",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Mayta Marcos",
+        "ELO Blitz": 1500
+    },
+    {
+        "Nombre": "Vega Elias",
         "ELO Blitz": 1500
     },
     {
@@ -248,7 +284,7 @@
         "ELO Blitz": 1500
     },
     {
-        "Nombre": "Florentino Juan Manuel",
+        "Nombre": "Acosta Camila",
         "ELO Blitz": 1500
     },
     {
